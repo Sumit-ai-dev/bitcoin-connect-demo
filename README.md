@@ -48,18 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - **Tailwind CSS** - Styling
 - **Alby Bitcoin Connect** - Lightning wallet integration
 
-## Deploy on Vercel
-
-This app is deployed on Vercel. To deploy your own version:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Sumit-ai-dev/bitcoin-connect-demo)
-
-## Learn More
-
-- [Bitcoin Connect Documentation](https://github.com/getAlby/bitcoin-connect)
-- [WebLN Guide](https://www.webln.guide/)
-- [Next.js Documentation](https://nextjs.org/docs)
-
 ## License
 
 Open source - feel free to use and modify!
